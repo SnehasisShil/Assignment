@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="use_headphone">Please use \ud83c\udfa7 for best experience.  </string>
+    <string name="tips"> <u>tips to remember this </u> </string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="info">Swipe Right to go to Next ! </string>
+
+</resources>
